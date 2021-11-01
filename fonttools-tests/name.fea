@@ -8,9 +8,9 @@ table name {
 #test-fea2fea:
   nameid 4 "Ignored-4";
 #test-fea2fea:
-  nameid 5 "Ignored-5";
+  nameid 0x5 "Ignored-5";
 #test-fea2fea:
-    nameid 6 "Ignored-6";
+    nameid 06 "Ignored-6";
 #test-fea2fea: nameid 7 "Test7";
   nameid 7 3 "Test7";
     nameid 8 1 "Test8";
