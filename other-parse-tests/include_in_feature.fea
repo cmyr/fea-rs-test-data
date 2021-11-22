@@ -1,3 +1,3 @@
 feature ohno {
-    include(i do not exist);
+    include(escape_nonkeyword.fea);
 } ohno;
