@@ -1,0 +1,11 @@
+[31merror: [0mexpected tag, found EnumKw
+[3;34min[0m ./test-data/parse-tests/bad/bad_tag_keyword.fea [3;34mat[0m 1:8
+[34m  |[0m 
+[34m1 |[0m feature enum {
+[34m  |[0m         [31m^^^^[0m
+
+[31merror: [0mexpected tag, found EnumKw
+[3;34min[0m ./test-data/parse-tests/bad/bad_tag_keyword.fea [3;34mat[0m 4:2
+[34m  |[0m 
+[34m4 |[0m } enum;
+[34m  |[0m   [31m^^^^[0m

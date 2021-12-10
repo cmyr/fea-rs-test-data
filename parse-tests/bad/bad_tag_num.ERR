@@ -1,0 +1,35 @@
+[31merror: [0mexpected tag, found NUM
+[3;34min[0m ./test-data/parse-tests/bad/bad_tag_num.fea [3;34mat[0m 1:8
+[34m  |[0m 
+[34m1 |[0m feature 1pos {
+[34m  |[0m         [31m^[0m
+
+[31merror: [0mExpected {, found PosKw
+[3;34min[0m ./test-data/parse-tests/bad/bad_tag_num.fea [3;34mat[0m 1:9
+[34m  |[0m 
+[34m1 |[0m feature 1pos {
+[34m  |[0m          [31m^^^[0m
+
+[31merror: [0mExpected glyph or glyph class
+[3;34min[0m ./test-data/parse-tests/bad/bad_tag_num.fea [3;34mat[0m 1:13
+[34m  |[0m 
+[34m1 |[0m feature 1pos {
+[34m  |[0m              [31m^[0m
+
+[31merror: [0mexpected tag, found NUM
+[3;34min[0m ./test-data/parse-tests/bad/bad_tag_num.fea [3;34mat[0m 3:2
+[34m  |[0m 
+[34m3 |[0m } 1pos;
+[34m  |[0m   [31m^[0m
+
+[31merror: [0mExpected ';'
+[3;34min[0m ./test-data/parse-tests/bad/bad_tag_num.fea [3;34mat[0m 3:3
+[34m  |[0m 
+[34m3 |[0m } 1pos;
+[34m  |[0m    [31m^[0m
+
+[31merror: [0mUnexpected token 'pos', expected global keyword.
+[3;34min[0m ./test-data/parse-tests/bad/bad_tag_num.fea [3;34mat[0m 3:3
+[34m  |[0m 
+[34m3 |[0m } 1pos;
+[34m  |[0m    [31m^^^[0m
