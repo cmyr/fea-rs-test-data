@@ -1,0 +1,5 @@
+[31merror: [0mIgnore statement must include one marked glyph
+[3;34min[0m ./test-data/parse-tests/bad/ignore_no_marks.fea [3;34mat[0m 5:18
+[34m  |[0m 
+[34m5 |[0m     ignore sub a b;
+[34m  |[0m                   [31m^[0m
