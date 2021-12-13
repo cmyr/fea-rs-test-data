@@ -1,0 +1,5 @@
+[31merror: [0msize feature can have only one 'parameters' statement
+[3;34min[0m ./test-data/error-tests/bad_size1.fea [3;34mat[0m 3:4
+[34m  |[0m 
+[34m3 |[0m     parameters 6 6 6 0; # only one param statement allowed
+[34m  |[0m     [31m^^^^^^^^^^^^^^^^^^^[0m

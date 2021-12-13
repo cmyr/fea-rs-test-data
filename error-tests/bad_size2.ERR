@@ -1,0 +1,5 @@
+[31merror: [0msize feature must include a 'parameters' statement
+[3;34min[0m ./test-data/error-tests/bad_size2.fea [3;34mat[0m 2:8
+[34m  |[0m 
+[34m2 |[0m feature size {
+[34m  |[0m         [31m^^^^[0m
