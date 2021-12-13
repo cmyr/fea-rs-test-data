@@ -1,7 +1,7 @@
 languagesystem DFLT dflt;
 
-markClass [acute grave] <anchor 111 -11> @TOP_MARKS;
-markClass [acute] <anchor 222 22> @CUTE_TOP_MARKS;
+markClass [grave bar] <anchor 111 -11> @TOP_MARKS;
+markClass [grave] <anchor 222 22> @CUTE_TOP_MARKS;
 
 feature test {
     pos base a

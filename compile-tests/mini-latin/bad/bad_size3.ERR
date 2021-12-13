@@ -1,5 +1,5 @@
 [31merror: [0mif subfamily is omitted, there must be no 'sizemenuname' statements
-[3;34min[0m ./test-data/error-tests/bad_size3.fea [3;34mat[0m 2:4
+[3;34min[0m ./test-data/compile-tests/mini-latin/bad/bad_size3.fea [3;34mat[0m 2:4
 [34m  |[0m 
 [34m2 |[0m     parameters 6 0 0 0;
 [34m  |[0m     [31m^^^^^^^^^^^^^^^^^^^[0m

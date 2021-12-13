@@ -1,0 +1,5 @@
+[31merror: [0minline rule not allowed in statement that includes named lookup
+[3;34min[0m ./test-data/compile-tests/mini-latin/bad/gsub_6_named_and_inline.fea [3;34mat[0m 7:26
+[34m  |[0m 
+[34m7 |[0m     sub a' lookup HI b' c by d;
+[34m  |[0m                           [31m^^^^[0m
