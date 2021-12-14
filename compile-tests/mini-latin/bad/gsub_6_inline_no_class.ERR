@@ -1,5 +1,5 @@
-[31merror: [0mclass can only substitute another class
-[3;34min[0m ./test-data/compile-tests/mini-latin/bad/gsub_6_inline_no_class.fea [3;34mat[0m 3:16
+[31merror: [0mif replacing by glyph class, input sequence must be a single glyph class
+[3;34min[0m ./test-data/compile-tests/mini-latin/bad/gsub_6_inline_no_class.fea [3;34mat[0m 3:8
 [34m  |[0m 
 [34m3 |[0m     sub a' d by [z x];
-[34m  |[0m                 [31m^^^^^[0m
+[34m  |[0m         [31m^^^[0m
