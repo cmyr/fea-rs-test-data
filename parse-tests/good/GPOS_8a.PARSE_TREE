@@ -15,7 +15,7 @@ FILE@[0; 80)
                   GlyphName@23 "T"
                   '@24 "'"
                   WS@25 " "
-                    ContextLookup@[26; 40)
+                    LookupRefNode@[26; 40)
                       LookupKw@26 "lookup"
                       WS@32 " "
                       ID@33 "LOOKUP1"
@@ -33,7 +33,7 @@ FILE@[0; 80)
                   @GlyphClass@48 "@MARKS"
                   '@54 "'"
                   WS@55 " "
-                    ContextLookup@[56; 70)
+                    LookupRefNode@[56; 70)
                       LookupKw@56 "lookup"
                       WS@62 " "
                       ID@63 "LOOKUP2"

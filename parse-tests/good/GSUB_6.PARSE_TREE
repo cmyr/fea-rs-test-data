@@ -29,7 +29,7 @@ FILE@[0; 91)
                   GlyphName@40 "f"
                   '@41 "'"
                   WS@42 " "
-                    ContextLookup@[43; 60)
+                    LookupRefNode@[43; 60)
                       LookupKw@43 "lookup"
                       WS@49 " "
                       ID@50 "CNTXT_LIGS"
@@ -42,7 +42,7 @@ FILE@[0; 91)
                   GlyphName@64 "n"
                   '@65 "'"
                   WS@66 " "
-                    ContextLookup@[67; 83)
+                    LookupRefNode@[67; 83)
                       LookupKw@67 "lookup"
                       WS@73 " "
                       ID@74 "CNTXT_SUB"
