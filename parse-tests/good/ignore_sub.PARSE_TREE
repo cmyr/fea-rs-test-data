@@ -22,8 +22,10 @@ FILE@[0; 73)
                       GlyphName@35 "e"
                       ]@36 "]"
               WS@37 " "
-              GlyphName@38 "d"
-              '@39 "'"
+                ContextSequence@[38; 40)
+                    ContextGlyphNode@[38; 40)
+                      GlyphName@38 "d"
+                      '@39 "'"
                 LookaheadSequence@[40; 40)
           ;@40 ";"
       WS@41 "\n    "
@@ -36,8 +38,10 @@ FILE@[0; 73)
                 BacktrackSequence@[57; 58)
                   GlyphName@57 "a"
               WS@58 " "
-              GlyphName@59 "d"
-              '@60 "'"
+                ContextSequence@[59; 61)
+                    ContextGlyphNode@[59; 61)
+                      GlyphName@59 "d"
+                      '@60 "'"
               WS@61 " "
                 LookaheadSequence@[62; 63)
                   GlyphName@62 "d"
