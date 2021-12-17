@@ -1,0 +1,22 @@
+# generated automatically by fea-rs
+# this file represents an acceptable difference between the output of
+# fonttools and the output of fea-rs for a given input.
+L4
+>      <Version value="0x00010000"/>
+L4
+<      <Version value="0x00010002"/>
+L7
+>        <ClassDef glyph="acute" class="3"/>
+L7
+<        <ClassDef glyph="f" class="1"/>
+<        <ClassDef glyph="i" class="1"/>
+L12
+>        <ClassDef glyph="f" class="1"/>
+L15
+<        <ClassDef glyph="s_t" class="2"/>
+L17
+>        <ClassDef glyph="i" class="1"/>
+L17
+<        <ClassDef glyph="acute" class="3"/>
+L21
+>        <ClassDef glyph="s_t" class="2"/>
