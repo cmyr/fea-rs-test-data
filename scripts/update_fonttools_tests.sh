@@ -12,4 +12,5 @@ DEST_DIR=./fonttools-tests
 
 git clone $REPO $TEMP_DIR
 cp $TEST_DATA/*.fea $DEST_DIR
+cp $TEST_DATA/*.ttx $DEST_DIR
 rm -rf $TEMP_DIR
