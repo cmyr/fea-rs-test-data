@@ -1,9 +1,9 @@
 # compile-tests
 
-Each subdirectory in this directory should contain a `font.ttf` file and a
+Each subdirectory in this directory should contain a `glyph_order.txt` file and a
 pair of directores, 'good' and 'bad', each of which contains a number of `.fea`
-files. Each of these files is intended to be compiled against the included
-`font.ttf`.
+files. Each of these files is intended to be compiled using the provided glyph
+order.
 
 ## the good
 
