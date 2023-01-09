@@ -1,0 +1,5 @@
+[31merror: [0mfeature reference only valid in 'aalt' feature
+[3;34min[0m ./test-data/compile-tests/mini-latin/bad/feature_ref_outside_aalt.fea [3;34mat[0m 2:4
+[34m  |[0m 
+[34m2 |[0m     feature none; # this syntax is only allowed in the 'aalt' feature
+[34m  |[0m     [31m^^^^^^^[0m
