@@ -1,0 +1,5 @@
+[31merror: [0mmultiple rule types in lookup block (saw 'GsubType1' after 'GsubType4')
+[3;34min[0m ./test-data/compile-tests/mini-latin/bad/lookup_mixed_rules.fea [3;34mat[0m 4:4
+[34m  |[0m 
+[34m4 |[0m     sub one by one.osf;
+[34m  |[0m     [31m^^^^^^^^^^^^^^^^^^^[0m
