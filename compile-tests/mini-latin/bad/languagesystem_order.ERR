@@ -1,0 +1,5 @@
+[31merror: [0m'DFLT dftl' must be first languagesystem statement
+[3;34min[0m ./test-data/compile-tests/mini-latin/bad/languagesystem_order.fea [3;34mat[0m 2:0
+[34m  |[0m 
+[34m2 |[0m languagesystem DFLT dflt;
+[34m  |[0m [31m^^^^^^^^^^^^^^^^^^^^^^^^^[0m

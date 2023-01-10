@@ -1,0 +1,11 @@
+[31merror: [0mscript and language statements not allowed in standalone lookup blocks
+[3;34min[0m ./test-data/compile-tests/mini-latin/bad/script_in_lookup.fea [3;34mat[0m 3:4
+[34m  |[0m 
+[34m3 |[0m     script latn;
+[34m  |[0m     [31m^^^^^^^^^^^^[0m
+
+[31merror: [0mscript and language statements not allowed in standalone lookup blocks
+[3;34min[0m ./test-data/compile-tests/mini-latin/bad/script_in_lookup.fea [3;34mat[0m 4:4
+[34m  |[0m 
+[34m4 |[0m     language lang;
+[34m  |[0m     [31m^^^^^^^^^^^^^^[0m
