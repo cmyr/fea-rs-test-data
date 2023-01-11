@@ -1,0 +1,5 @@
+[31merror: [0mInvalid lookup type: expected GPOS, found GSUB
+[3;34min[0m ./test-data/compile-tests/mini-latin/bad/chain_pos_references_gsub_lookup.fea [3;34mat[0m 6:18
+[34m  |[0m 
+[34m6 |[0m     pos a' lookup dummy b;
+[34m  |[0m                   [31m^^^^^[0m
