@@ -1,4 +1,1 @@
-feature test {
-    sub y_e_s by n_o;
-} test;
-
+@items = [a b]; # defined here, used in _included3
