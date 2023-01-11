@@ -3,3 +3,7 @@ lookup foo {
     lookupflag 3;
     sub a by b;
 } foo;
+
+feature test {
+    lookup foo;
+} test;

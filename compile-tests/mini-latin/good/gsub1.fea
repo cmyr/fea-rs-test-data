@@ -1,5 +1,5 @@
-@numbers = [one two three four five six seven eight nine zero];
-@numbers_old_style = [one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf zero.osf];
+@numbers = [one two three four];
+@numbers_old_style = [one.osf two.osf three.osf four.osf];
 
 # glyph -> glyph
 feature onum {
@@ -7,12 +7,6 @@ feature onum {
     sub two by two.osf;
     sub three by three.osf;
     sub four by four.osf;
-    sub five by five.osf;
-    sub six by six.osf;
-    sub seven by seven.osf;
-    sub eight by eight.osf;
-    sub nine by nine.osf;
-    sub zero by zero.osf;
 } onum;
 
 # class -> class
@@ -22,6 +16,7 @@ feature noos {
 
 # class -> glyph
 feature nono {
+    # technically creates a type-2 lookup: multisub with an empty target sequence
     sub @numbers by NULL;
     sub @numbers_old_style by question;
 } nono;
