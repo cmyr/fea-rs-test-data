@@ -1,7 +1,5 @@
-# we had a crash when a feature had duplicate lookups, because we were asserting
-# that feature lookups were sorted.
-# We should probably be deduplicating these lookups, but we are not currently
-# (https://github.com/cmyr/fea-rs/issues/92)
+# It is possible to add the same lookup multiple times to a feature, but
+# it will be removed before compilation.
 languagesystem DFLT dflt;
 languagesystem latn dflt;
 languagesystem latn HMM;
@@ -17,7 +15,7 @@ feature test {
 
     # latn dflt here includes both named lookups
 	script latn;
-	lookup alt1;
+	lookup alt1; # so this is redundant
 } test;
 
 

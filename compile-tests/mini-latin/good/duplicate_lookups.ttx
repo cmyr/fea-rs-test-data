@@ -22,7 +22,7 @@
           <DefaultLangSys>
             <ReqFeatureIndex value="65535"/>
             <!-- FeatureCount=1 -->
-            <FeatureIndex index="0" value="1"/>
+            <FeatureIndex index="0" value="0"/>
           </DefaultLangSys>
           <!-- LangSysCount=1 -->
           <LangSysRecord index="0">
@@ -37,22 +37,13 @@
       </ScriptRecord>
     </ScriptList>
     <FeatureList>
-      <!-- FeatureCount=2 -->
+      <!-- FeatureCount=1 -->
       <FeatureRecord index="0">
         <FeatureTag value="test"/>
         <Feature>
           <!-- LookupCount=2 -->
           <LookupListIndex index="0" value="0"/>
           <LookupListIndex index="1" value="1"/>
-        </Feature>
-      </FeatureRecord>
-      <FeatureRecord index="1">
-        <FeatureTag value="test"/>
-        <Feature>
-          <!-- LookupCount=3 -->
-          <LookupListIndex index="0" value="0"/>
-          <LookupListIndex index="1" value="1"/>
-          <LookupListIndex index="2" value="0"/>
         </Feature>
       </FeatureRecord>
     </FeatureList>
