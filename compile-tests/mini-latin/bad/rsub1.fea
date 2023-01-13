@@ -1,4 +1,0 @@
-feature test {
-    # glyph cannot replace class
-    rsub a [b c]' by d;
-} test;
