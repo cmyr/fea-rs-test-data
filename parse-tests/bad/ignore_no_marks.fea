@@ -1,6 +1,0 @@
-# this shouldn't parse per the spec, although it is parsed by other tools
-# spec: http://adobe-type-tools.github.io/afdko/OpenTypeFeatureFileSpecification.html#5fii-specifying-exceptions-to-the-chain-sub-rule
-# issue: https://github.com/adobe-type-tools/afdko/issues/1415
-feature test {
-    ignore sub a b;
-} test;
