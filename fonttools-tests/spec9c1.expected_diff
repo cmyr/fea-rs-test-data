@@ -1,7 +1,0 @@
-# generated automatically by fea-rs
-# this file represents an acceptable difference between the output of
-# fonttools and the output of fea-rs for a given input.
-L7
->      <checkSumAdjustment value="0x0"/>
-L7
-<      <checkSumAdjustment value="0xac6b69e2"/>
