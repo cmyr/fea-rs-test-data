@@ -1,0 +1,11 @@
+[31merror: [0m'valueRecordDef' Not valid in a feature block
+[3;34min[0m ./test-data/parse-tests/bad/value_record_def_outside_top_level.fea [3;34mat[0m 5:4
+[34m  |[0m 
+[34m5 |[0m     valueRecordDef 123 BAD;
+[34m  |[0m     [31m^^^^^^^^^^^^^^[0m
+
+[31merror: [0m'valueRecordDef' Not valid in a lookup block
+[3;34min[0m ./test-data/parse-tests/bad/value_record_def_outside_top_level.fea [3;34mat[0m 9:4
+[34m  |[0m 
+[34m9 |[0m     valueRecordDef <4 3 2 1> ALSO_BAD;
+[34m  |[0m     [31m^^^^^^^^^^^^^^[0m
