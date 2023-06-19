@@ -9,7 +9,7 @@ FILE@[0; 116)
       {@72 "{"
       WS@73 "\n\t"
         ConditionNode@[75; 88)
-          ID@75 "wght"
+          Tag@75 "wght"
           WS@79 " "
           NUM@80 "700"
           WS@83 " "
@@ -17,7 +17,7 @@ FILE@[0; 116)
           ;@87 ";"
       WS@88 "\n    "
         ConditionNode@[93; 106)
-          ID@93 "temp"
+          Tag@93 "temp"
           WS@97 " "
           NUM@98 "100"
           WS@101 " "
