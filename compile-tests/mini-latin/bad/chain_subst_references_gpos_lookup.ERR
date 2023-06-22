@@ -1,5 +1,5 @@
-[31merror: [0mInvalid lookup: expected GSUB, found GPOS
-[3;34min[0m ./test-data/compile-tests/mini-latin/bad/chain_subst_references_gpos_lookup.fea [3;34mat[0m 6:18
-[34m  |[0m 
-[34m6 |[0m     sub a' lookup dummy b;
-[34m  |[0m                   [31m^^^^^[0m
+error: Invalid lookup: expected GSUB, found GPOS
+in ./test-data/compile-tests/mini-latin/bad/chain_subst_references_gpos_lookup.fea at 6:18
+  | 
+6 |     sub a' lookup dummy b;
+  |                   ^^^^^
