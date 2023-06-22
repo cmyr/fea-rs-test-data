@@ -1,5 +1,5 @@
-[31merror: [0mrule cannot have both inline rules and explicit lookups
-[3;34min[0m ./test-data/compile-tests/mini-latin/bad/gpos_8a.fea [3;34mat[0m 6:26
-[34m  |[0m 
-[34m6 |[0m     pos a b' lookup HI c' -20;
-[34m  |[0m                           [31m^^^[0m
+error: rule cannot have both inline rules and explicit lookups
+in ./test-data/compile-tests/mini-latin/bad/gpos_8a.fea at 6:26
+  | 
+6 |     pos a b' lookup HI c' -20;
+  |                           ^^^

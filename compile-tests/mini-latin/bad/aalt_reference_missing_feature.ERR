@@ -1,5 +1,5 @@
-[31merror: [0mReferenced feature not found.
-[3;34min[0m ./test-data/compile-tests/mini-latin/bad/aalt_reference_missing_feature.fea [3;34mat[0m 2:12
-[34m  |[0m 
-[34m2 |[0m     feature nope;
-[34m  |[0m             [31m^^^^[0m
+error: Referenced feature not found.
+in ./test-data/compile-tests/mini-latin/bad/aalt_reference_missing_feature.fea at 2:12
+  | 
+2 |     feature nope;
+  |             ^^^^

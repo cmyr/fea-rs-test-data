@@ -1,5 +1,5 @@
-[31merror: [0msize feature must include a 'parameters' statement
-[3;34min[0m ./test-data/compile-tests/mini-latin/bad/bad_size2.fea [3;34mat[0m 2:8
-[34m  |[0m 
-[34m2 |[0m feature size {
-[34m  |[0m         [31m^^^^[0m
+error: size feature must include a 'parameters' statement
+in ./test-data/compile-tests/mini-latin/bad/bad_size2.fea at 2:8
+  | 
+2 | feature size {
+  |         ^^^^

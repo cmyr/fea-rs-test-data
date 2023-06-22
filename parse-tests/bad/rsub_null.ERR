@@ -1,6 +1,6 @@
-[31merror: [0mAlthough explicitly part of the FEA spec, 'by NULL' in rsub rules is meaningless.
+error: Although explicitly part of the FEA spec, 'by NULL' in rsub rules is meaningless.
 See https://github.com/fonttools/fonttools/issues/2952 for more information
-[3;34min[0m ./test-data/parse-tests/bad/rsub_null.fea [3;34mat[0m 4:19
-[34m  |[0m 
-[34m4 |[0m     rsub a b' c by NULL;
-[34m  |[0m                    [31m^^^^[0m
+in ./test-data/parse-tests/bad/rsub_null.fea at 4:19
+  | 
+4 |     rsub a b' c by NULL;
+  |                    ^^^^

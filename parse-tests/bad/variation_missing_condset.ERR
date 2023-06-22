@@ -1,5 +1,5 @@
-[31merror: [0mexpected label or NULL
-[3;34min[0m ./test-data/parse-tests/bad/variation_missing_condset.fea [3;34mat[0m 1:15
-[34m  |[0m 
-[34m1 |[0m variation oops {
-[34m  |[0m                [31m^[0m
+error: expected label or NULL
+in ./test-data/parse-tests/bad/variation_missing_condset.fea at 1:15
+  | 
+1 | variation oops {
+  |                ^

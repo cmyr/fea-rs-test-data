@@ -1,5 +1,5 @@
-[31merror: [0mFailed to load source at 'i_am_quite_unlikely_to_exist.fea': 'No such file or directory (os error 2)'
-[3;34min[0m ./test-data/parse-tests/bad/include_missing_file.fea [3;34mat[0m 7:8
-[34m  |[0m 
-[34m7 |[0m include(i_am_quite_unlikely_to_exist.fea);
-[34m  |[0m         [31m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+error: Failed to load source at 'i_am_quite_unlikely_to_exist.fea': 'No such file or directory (os error 2)'
+in ./test-data/parse-tests/bad/include_missing_file.fea at 7:8
+  | 
+7 | include(i_am_quite_unlikely_to_exist.fea);
+  |         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

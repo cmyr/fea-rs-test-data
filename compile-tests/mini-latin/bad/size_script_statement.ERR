@@ -1,11 +1,11 @@
-[31merror: [0msize can only contain feature names and single or alternate sub rules.
-[3;34min[0m ./test-data/compile-tests/mini-latin/bad/size_script_statement.fea [3;34mat[0m 3:4
-[34m  |[0m 
-[34m3 |[0m     script latn;
-[34m  |[0m     [31m^^^^^^^^^^^^[0m
+error: size can only contain feature names and single or alternate sub rules.
+in ./test-data/compile-tests/mini-latin/bad/size_script_statement.fea at 3:4
+  | 
+3 |     script latn;
+  |     ^^^^^^^^^^^^
 
-[31merror: [0msize can only contain feature names and single or alternate sub rules.
-[3;34min[0m ./test-data/compile-tests/mini-latin/bad/size_script_statement.fea [3;34mat[0m 4:4
-[34m  |[0m 
-[34m4 |[0m     language lang;
-[34m  |[0m     [31m^^^^^^^^^^^^^^[0m
+error: size can only contain feature names and single or alternate sub rules.
+in ./test-data/compile-tests/mini-latin/bad/size_script_statement.fea at 4:4
+  | 
+4 |     language lang;
+  |     ^^^^^^^^^^^^^^
